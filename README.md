@@ -1,4 +1,4 @@
-# CAST Frontend Boilerplate
+# Frontend Boilerplate
 
 This is temporal solution for creating FE project in with react + redux + react-router and more.
 
