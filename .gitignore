@@ -1,0 +1,10 @@
+.idea
+dist
+-node_modules
+node_modules
+node
+coverage-client-unit
+test-report
+*.DS_Store
+npm-debug.log*
+build/locales/*
